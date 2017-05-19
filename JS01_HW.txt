@@ -25,4 +25,8 @@ cd ~/
 cd sites
 mkdir -p i/was/wondering/if/after/all/these/years/you world/like/to
 cd i/was/wondering/if/after/all/these/years/you world/like/to
+<<<<<<< HEAD
 touch meet.jpg
+=======
+touch meet.jpg
+>>>>>>> 1df58629e04f3cb53f5cb39604fa8f835798b3a4
