@@ -25,4 +25,4 @@ cd ~/
 cd sites
 mkdir -p i/was/wondering/if/after/all/these/years/you world/like/to
 cd i/was/wondering/if/after/all/these/years/you world/like/to
-touch meet.jpg`
+touch meet.jpg
